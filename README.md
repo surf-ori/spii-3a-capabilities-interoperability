@@ -1,4 +1,4 @@
-# SPII 3A: Capabilities & Interoperability
+# SPII 3A: Reference model for: Capabilities & Interoperability
 
 Feedback and issue tracker for SPII deliverable 3A, Capabilities & Interoperability, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
 
