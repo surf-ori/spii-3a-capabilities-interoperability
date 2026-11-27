@@ -4,7 +4,7 @@ Agent context for working on the `spii-3a-capabilities-interoperability` reposit
 
 ## What this repo is
 
-The feedback and issue tracker for SPII deliverable 3A, Capabilities & Interoperability. It holds
+The feedback and issue tracker for SPII deliverable 3A, Practical Interoperability Guidelines. It holds
 no application code: its content is community feedback issues, this tracker's own configuration,
 and these context files. The deliverable's actual content and status live in the reference-model
 source document and on the [spii-overview](https://github.com/surf-ori/spii-overview) page, not
